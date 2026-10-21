@@ -39,5 +39,5 @@
 ```text
 .
 ├── Kiseleva-oncology-russia-project.ipynb   # Основной исследовательский ноутбук с кодом и графиками
-├── Kiseleva-oncology-russia-project.html    # Чистый аналитический отчет (без блоков кода)
+├── Kiseleva-oncology-russia-project.md      # Ноутбук в формате md
 ├── README.md                                # Документация проекта
