@@ -39,6 +39,7 @@
 
 ```text
 .
+├── graphs                                   # полученные графики
 ├── Kiseleva-oncology-russia-project.ipynb   # Основной исследовательский ноутбук с кодом и графиками
 ├── Kiseleva-oncology-russia-project.md      # Ноутбук в формате md
 ├── README.md                                # Документация проекта
