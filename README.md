@@ -18,11 +18,11 @@
 ### Важно!
 Для запуска на своем устройстве следует:
 
-Скачать ipynb проекта c github
-Перейти по ссылке https://tochno.st/datasets/cancer_incidence) и скачать csv-архив с данными (oncology_1997_2024)
-Перейти по ссылке https://tochno.st/datasets/bdmo и скачать сsv-архив из раздела демография (demography_2005_2023)
-Перейти по ссылке https://github.com/hairymax/offline_russia_plotly/blob/main/data/russia_regions.geojson?ysclid=mvhbqoyyan311685916 и скачать geojson (russia_regions)
-Все скачанные данные разархивировать в папку data в папке с блокнотом проекта и переименовать так как написано в скобках
+*Скачать ipynb проекта c github
+*Перейти по ссылке https://tochno.st/datasets/cancer_incidence) и скачать csv-архив с данными (oncology_1997_2024)
+*Перейти по ссылке https://tochno.st/datasets/bdmo и скачать сsv-архив из раздела демография (demography_2005_2023)
+*Перейти по ссылке https://github.com/hairymax/offline_russia_plotly/blob/main/data/russia_regions.geojson?ysclid=mvhbqoyyan311685916 и скачать geojson (russia_regions)
+*Все скачанные данные разархивировать в папку data в папке с блокнотом проекта и переименовать так как написано в скобках
 
 ---
 
