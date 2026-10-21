@@ -254,7 +254,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![png](graphs/output_6_0.png)
     
 
 
@@ -421,7 +421,7 @@ build_boxplot_dynamics("Стандартизованный коэффициен�
 
 
     
-![png](output_9_0.png)
+![png](graphs/output_9_0.png)
     
 
 
@@ -440,7 +440,7 @@ build_boxplot_dynamics("Стандартизованный коэффициен�
 
 
     
-![png](output_11_0.png)
+![png](graphs/output_11_0.png)
     
 
 
@@ -588,7 +588,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![png](graphs/output_14_0.png)
     
 
 
@@ -647,7 +647,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](graphs/output_17_0.png)
     
 
 
@@ -727,7 +727,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](graphs/output_20_0.png)
     
 
 
@@ -787,7 +787,7 @@ plt.show()
 
 
     
-![png](output_22_1.png)
+![png](graphs/output_22_1.png)
     
 
 
@@ -839,7 +839,7 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![png](graphs/output_23_0.png)
     
 
 
@@ -873,7 +873,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](graphs/output_25_0.png)
     
 
 
@@ -948,7 +948,7 @@ axes[2].set_xlabel("Случаев на 100 тыс. населения")
 
 
     
-![png](output_27_1.png)
+![png](graphs/output_27_1.png)
     
 
 
@@ -1023,7 +1023,7 @@ axes[2].set_xlabel("Смертей на 100 тыс. населения")
 
 
     
-![png](output_28_1.png)
+![png](graphs/output_28_1.png)
     
 
 
